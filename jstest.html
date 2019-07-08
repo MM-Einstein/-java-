@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script type="text/javascript">
+        document.write("<table>");
+        for (var x = 1; x<=9; x++){
+            for (var y=1; y<=x; y++){
+               document.write("<td>"+y+"*"+x+"="+x*y+"</td>");
+                //document.write(y+"*"+x+"="+x*y+"&nbsp;&nbsp");
+
+            }
+            document.write("</tr>");
+
+        }
+        document.write("</table>");
+    </script>
+
+</body>
+</html>
