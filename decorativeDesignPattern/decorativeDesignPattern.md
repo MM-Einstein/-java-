@@ -10,7 +10,8 @@
 
 
 ## 装饰设计模式的结构
-<div style="align: center">
-<img src="https://github.com/MM-Einstein/DesignPattern/blob/master/decorativeDesignPattern/images/1.png"/>  
+<div align=center>
+<img src="https://github.com/MM-Einstein/DesignPattern/blob/master/decorativeDesignPattern/images/1.png"/>   
+ 
 图1. 装饰设计模式结构图
 </div>
