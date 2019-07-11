@@ -9,7 +9,7 @@ public abstract class DecorateMethod implements Drink{
     public DecorateMethod(Drink drink){     //根据多态，这里做了向上转型(Drink)milk
         this.drink=drink;
     }
-    
+
 
     @Override
     public String description() {
